@@ -15,6 +15,6 @@ jobs:
           path: test-results
 
 workflows:
-  Mocking:
+  Mock:
     jobs:
       - build-and-test
