@@ -1,0 +1,104 @@
+Enter Github Username: valkyron
+Repo: Arduino-Basics
+Description: Community codes for getting started with Arduino. This Repository hosts codes for basic sensor interfacing and data collection
+Number of commits: 29
+
+Repo: Blockchain-implementation-from-scratch
+Description: Implementing blockchain from scratch using Python & SQLite DB
+Number of commits: 4
+
+Repo: Boston-Housing-Data
+Description: This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. 
+Number of commits: 4
+
+Repo: CNN-Notebooks
+Description: This repo holds preprocessing, training and classifying data on 3 different datasets, using CNN.
+Number of commits: 20
+
+Repo: Computer-Vision-Bootcamp
+Description: This Repository contains Codes, Handouts and Slides for the Session on Computer Vision by ACM JUIT. Feel free to use, edit and change whatever you feel like. All the rights are reserved with me for credits of materials. Just add credits whenever you need to reproduce. That's all! :) https://cvbootcamp.github.io
+Number of commits: 15
+
+Repo: Cplusplus-MyNotes
+Description: None
+Number of commits: 19
+
+Repo: datasets
+Description: A collection of datasets of ML problem solving
+Number of commits: 30
+
+Repo: Django-deployment
+Description: Created back-end operational website project using django, python. 
+Number of commits: 7
+
+Repo: Django-Full-Stack-Web-Development
+Description: Full Stack Web Development using. HTML, CSS , Bootstrap, JS, jQuery, Python. 
+Number of commits: 4
+
+Repo: Entry-Based-Security-System
+Description: To increase safety of entry doors by an IoT-based facial recognition system linked to end user’s smartphones by an application and a real-time database, the project focuses on making a simple and secure IoT-based door entry system using facial recognition. 
+Number of commits: 5
+
+Repo: First-Website-using-CSS
+Description: The project is basically giving an idea of a how hover styles can be added to a webpage using CSS.
+Number of commits: 2
+
+Repo: Front-End-Challenge
+Description: Repository for the Front End Challenge of CodeWIthCoffee by ACM JUIT and TIEDC
+Number of commits: 8
+
+Repo: Graphic-Designs
+Description: Some event posters & graphic wallpapers that I designed for, well sheer fun! I have a keen interest in graphic design, so I keep giving time to this hobby of mine and try to kick my creativity out on them.
+Number of commits: 14
+
+Repo: Heart-Disease-Prediction-Data
+Description: Predicting presence of Heart Diseases using Linear & Logistic regression, SVM, Kernel SVM, K-Means Neighbors, Naive Bayes, Decision Tree, Random Forest &  Dimensionality Reduction (Both Feature Selection & Extraction).
+Number of commits: 19
+
+Repo: Image-Classification-VGGNet
+Description: Deep Learning based image classification using Keras and VGG16
+Number of commits: 17
+
+Repo: Machine-Learning
+Description: Practising data pre-processing and visualization using Python & R.
+Number of commits: 10
+
+Repo: ML-Model-deployment-using-Flask
+Description: Training iris data based KNN Logistic Regression model and visualizing data using Plotly-express sunburst tree charts, and deploying on localhost using Flask.
+Number of commits: 21
+
+Repo: News-Virality-Multiclass-Classification-Model
+Description: Crawl news & information websites & anticipate the likelihood of its virality. 
+Number of commits: 7
+
+Repo: NLP-GitHub-Bug-Prediction-GoogleBERT
+Description: Applying NLP techniques on Embold's github dataset and deploying Google's distilBERT model for classification.
+Number of commits: 10
+
+Repo: Pygame-A-Star-Path-Finding-Visualzation
+Description: Found this algo when studying the greedies, and made it into a good looking pygame .exe. Hope you like it!
+Number of commits: 4
+
+Repo: python
+Description: Contains some cool python projects. It is 100% python coded. Have fun  🙈
+Number of commits: 30
+
+Repo: Sales-Analysis-and-Prediction-App-using-Streamlit
+Description: The repository is a streamlit based web app deployed as - https://rossman-streamlit.herokuapp.com/ which analyses sales for Rossman Stores using seaborn python library and make future sales prediction using Decision Tree Algorithm.
+Number of commits: 2
+
+Repo: Sarcasm_Headlines-Raids2016-NLP
+Description: Getting started on NLP using a collection of libraries (Spacy, Gensim and more)
+Number of commits: 12
+
+Repo: Ultrasonic-Blind-Stick
+Description: The UBS is an advanced design integrated with ultrasonic sensor along with buzzer and haptic sensing.  Our proposed project first uses ultrasonic sensors to detect obstacles ahead using ultrasonic waves and calculates distance. The device was presented at JUIT's Murious Hackathon on 16 Mar 2019 as a project.
+Number of commits: 9
+
+Repo: valkyron
+Description: None
+Number of commits: 17
+
+success
+
+Process finished with exit code 0
