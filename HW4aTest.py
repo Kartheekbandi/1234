@@ -1,8 +1,7 @@
+from HW4a import GithubApi
 import unittest
 import urllib
 from unittest.mock import patch, Mock
-from HW4a import GithubApi
-
 
 class TestGithubApi(unittest.TestCase):
 
