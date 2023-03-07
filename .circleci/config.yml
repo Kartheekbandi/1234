@@ -15,6 +15,6 @@ jobs:
           path: test-results
 
 workflows:
-  testing_triangles:
+  Mocking:
     jobs:
       - build-and-test
